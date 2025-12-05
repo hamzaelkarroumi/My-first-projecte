@@ -1,0 +1,1 @@
+wondow.alert("Hello world");
